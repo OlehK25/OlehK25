@@ -61,6 +61,8 @@ I'm committed to continuous learning and professional growth, with a focus on im
 [<img src="https://img.shields.io/badge/Postman-0A2647?logo=postman&logoColor=339933" alt="Postman logo" title="Postman" height="30" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Heroku-0A2647?logo=heroku&logoColor=339933" alt="Heroku logo" title="Heroku" height="30" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/pgAdmin-0A2647?logo=pgAdmin&logoColor=339933" alt="pgAdmin logo" title="pgAdmin" height="30" />][tech_tools_anchor]
 
 <a name="learning-next"></a>
 
@@ -72,7 +74,12 @@ I'm committed to continuous learning and professional growth, with a focus on im
 
 [<img src="https://img.shields.io/badge/Firebase-1A120B?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="30" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=1A120B&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="30" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/Docker-1A120B?logo=docker&logoColor=4B32C3" alt="Docker logo" title="Docker" height="30" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Postgres-1A120B?logo=postgreSQL&logoColor=6F61C0" alt="Postgres logo" title="Postgre SQL" height="30" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/TypeScript-1A120B?logo=typescript&logoColor=91C8E4" alt="TypeScript logo" title="TypeScript" height="30" />][learning_next_anchor]
+&nbsp;
 
 <hr>
 <br>
@@ -86,8 +93,6 @@ I'm committed to continuous learning and professional growth, with a focus on im
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="30" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/AWS-282C34?logo=amazonaws&logoColor=FFFFFF" alt="AWS logo" title="AWS" height="30" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=FFFFFF" alt="Docker logo" title="Docker" height="30" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=FFFFFF" alt="MySQL logo" title="MySQL" height="30" />][learning_next_anchor]
 
