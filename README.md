@@ -19,7 +19,7 @@ I'm committed to continuous learning and professional growth, with a focus on im
 <h2  align="center">🏅 Certifications</h2>
 
 - [Node.js, Express, MongoDB & More: The Complete Bootcamp 2023](https://www.udemy.com/certificate/UC-8fa6bab4-8b57-4a1d-8bee-f10888f11cb7/)
-- [Node.js API Masterclass With Express & MongoDB](https://www.udemy.com/certificate/UC-8fa6bab4-8b57-4a1d-8bee-f10888f11cb7/)
+- [Node.js API Masterclass With Express & MongoDB](https://ua.udemy.com/certificate/UC-80f32102-fcfd-4fe4-b77d-290a0c325108/)
 - [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/certificate/UC-8e038cfe-e2fd-4ad8-b4cd-0baf8c594dbd/)
 - [The Ultimate React Course 2023: React, Redux & More](https://www.udemy.com/certificate/UC-8e038cfe-e2fd-4ad8-b4cd-0baf8c594dbd/)
 
