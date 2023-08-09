@@ -8,8 +8,8 @@
 <h1> 🚀 Hello !</h1>
 
 My name is Oleh. I'm a trainee/junior *Java Script* **[Node, Express, React/Redux]**.
-As an ambitious backend developer, I have basic JavaScript skills acquired through Udemy courses and hands-on experience. I'm proficient in Node.js, Express.js, and MongoDB, and have experience with CRUD operations, Stripe payments, building REST APIs, and server-side rendering with Pug. I am currently learning React/Redux.
-I'm committed to continuous learning and professional growth, with a focus on improving my spoken English skills.
+As an ambitious backend developer, I have basic JavaScript skills that I have improved through Udemy courses and hands-on application. I specialize in Node.js, Express.js, and MongoDB, with proven experience in CRUD operations, Stripe payments, REST API development, and server-side rendering with Pug. In addition, I have gained some experience with TypeScript, Docker, and Postgre SQL. I'm currently expanding my knowledge by delving into Node.js. <br>
+As I'm committed to continuous learning and career growth, I`m also looking to improve my English speaking skills.
 
 <br>
 </div>
@@ -19,9 +19,9 @@ I'm committed to continuous learning and professional growth, with a focus on im
 <h2  align="center">🏅 Certifications</h2>
 
 - [Node.js, Express, MongoDB & More: The Complete Bootcamp 2023](https://www.udemy.com/certificate/UC-8fa6bab4-8b57-4a1d-8bee-f10888f11cb7/)
-- [Node.js API Masterclass With Express & MongoDB](https://ua.udemy.com/certificate/UC-80f32102-fcfd-4fe4-b77d-290a0c325108/)
+- [Node.js API Masterclass With Express & MongoDB](https://www.udemy.com/certificate/UC-80f32102-fcfd-4fe4-b77d-290a0c325108/)
 - [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/certificate/UC-8e038cfe-e2fd-4ad8-b4cd-0baf8c594dbd/)
-- [The Ultimate React Course 2023: React, Redux & More](https://www.udemy.com/certificate/UC-8e038cfe-e2fd-4ad8-b4cd-0baf8c594dbd/)
+- [The Ultimate React Course 2023: React, Redux & More](https://www.udemy.com/certificate/UC-566d3700-29f5-4563-9261-b0112341fa57/)
 
 <hr>
 
@@ -43,6 +43,7 @@ I'm committed to continuous learning and professional growth, with a focus on im
 &nbsp;
 [<img src="https://img.shields.io/badge/Tailwind%20CSS-000?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="30" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Styled%20Components-000?logo=styledComponents&logoColor=EA1179" alt="Styled-components" title="Styled-components" height="30" />][tech_tools_anchor]
 
 ### Back-end:
 [<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="30" />][tech_tools_anchor]
@@ -63,6 +64,8 @@ I'm committed to continuous learning and professional growth, with a focus on im
 [<img src="https://img.shields.io/badge/Heroku-0A2647?logo=heroku&logoColor=339933" alt="Heroku logo" title="Heroku" height="30" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/pgAdmin-0A2647?logo=pgAdmin&logoColor=339933" alt="pgAdmin logo" title="pgAdmin" height="30" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Supabase-0A2647?logo=supabase&logoColor=339933" alt="Supabase logo" title="Supabase" height="30" />][tech_tools_anchor]
 
 <a name="learning-next"></a>
 
