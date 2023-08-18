@@ -8,7 +8,7 @@
 <h1> 🚀 Hello !</h1>
 
 My name is Oleh. I'm a trainee/junior *Java Script* **[Node, Express, React/Redux]**.
-As an ambitious backend developer, I have basic JavaScript skills that I have improved through Udemy courses and hands-on application. I specialize in Node.js, Express.js, and MongoDB, with proven experience in CRUD operations, Stripe payments, REST API development, and server-side rendering with Pug. In addition, I have gained some experience with TypeScript, Docker, and Postgre SQL. I'm currently expanding my knowledge by delving into Node.js. <br>
+As an ambitious backend developer, I have basic JavaScript skills that I have improved through Udemy courses and hands-on application. I specialize in Node.js, Express.js, and MongoDB, with proven experience in CRUD operations, Stripe payments, REST API development, and server-side rendering with Pug. In addition, I have gained some experience with TypeScript, Docker, and Postgre SQL. <br>
 As I'm committed to continuous learning and career growth, I`m also looking to improve my English speaking skills.
 
 <br>
@@ -99,6 +99,8 @@ As I'm committed to continuous learning and career growth, I`m also looking to i
 [<img src="https://img.shields.io/badge/AWS-282C34?logo=amazonaws&logoColor=FFFFFF" alt="AWS logo" title="AWS" height="30" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=FFFFFF" alt="MySQL logo" title="MySQL" height="30" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Fastify-282C34?logo=fastify&logoColor=FFFFFF" alt="Fastify logo" title="Fastify" height="30" />][learning_next_anchor]
 
 
 [tech_tools_anchor]: #Hello--
