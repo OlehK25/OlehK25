@@ -83,6 +83,7 @@ As I'm committed to continuous learning and career growth, I`m also looking to i
 &nbsp;
 [<img src="https://img.shields.io/badge/TypeScript-1A120B?logo=typescript&logoColor=91C8E4" alt="TypeScript logo" title="TypeScript" height="30" />][learning_next_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Nest.js-1A120B?logo=nestjs&logoColor=F05032" alt="Nest.js logo" title="Nest.js" height="30" />][learning_next_anchor]
 
 <hr>
 <br>
