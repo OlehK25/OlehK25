@@ -82,7 +82,9 @@ As I'm committed to continuous learning and career growth, I`m also looking to i
 &nbsp;
 [<img src="https://img.shields.io/badge/Nest.js-1A120B?logo=nestjs&logoColor=F05032" alt="Nest.js logo" title="Nest.js" height="30" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=FFFFFF" alt="MySQL logo" title="MySQL" height="30" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/MySQL-1A120B?logo=mysql&logoColor=7091F5" alt="MySQL logo" title="MySQL" height="30" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/MaterialUI-1A120B?logo=mui&logoColor=4B32C3" alt="MaterialUI logo" title="Material UI" height="30" />][learning_next_anchor]
 
 <hr>
 <br>
