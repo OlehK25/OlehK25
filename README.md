@@ -8,7 +8,7 @@
 <h1> 🚀 Hello !</h1>
 
 My name is Oleh. I'm a trainee/junior *Java Script* **[Node, Express, React/Redux]**.
-As an ambitious backend developer, I have basic JavaScript skills that I have improved through Udemy courses and hands-on application. I specialize in Node.js, Express.js, and MongoDB, with proven experience in CRUD operations, Stripe payments, REST API development, and server-side rendering with Pug. In addition, I have gained some experience with TypeScript, Docker, and Postgre SQL. <br>
+As an ambitious backend developer, I have basic JavaScript skills that I have improved through Udemy courses and hands-on application. I specialize in Node.js, Express.js, and MongoDB, with proven experience in CRUD operations, Stripe payments, REST API development, and server-side rendering with Pug. In addition, I have gained some experience with TypeScript, Docker, MySQL and Postgre SQL. <br>
 As I'm committed to continuous learning and career growth, I`m also looking to improve my English speaking skills.
 
 <br>
@@ -74,9 +74,6 @@ As I'm committed to continuous learning and career growth, I`m also looking to i
 
 <h2  align="center">🧠  Currently learning / improving on  </h2>
 
-
-[<img src="https://img.shields.io/badge/Firebase-1A120B?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="30" />][learning_now_anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/Docker-1A120B?logo=docker&logoColor=4B32C3" alt="Docker logo" title="Docker" height="30" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Postgres-1A120B?logo=postgreSQL&logoColor=6F61C0" alt="Postgres logo" title="Postgre SQL" height="30" />][learning_next_anchor]
@@ -84,6 +81,8 @@ As I'm committed to continuous learning and career growth, I`m also looking to i
 [<img src="https://img.shields.io/badge/TypeScript-1A120B?logo=typescript&logoColor=91C8E4" alt="TypeScript logo" title="TypeScript" height="30" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Nest.js-1A120B?logo=nestjs&logoColor=F05032" alt="Nest.js logo" title="Nest.js" height="30" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=FFFFFF" alt="MySQL logo" title="MySQL" height="30" />][learning_next_anchor]
 
 <hr>
 <br>
@@ -97,8 +96,6 @@ As I'm committed to continuous learning and career growth, I`m also looking to i
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="30" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/AWS-282C34?logo=amazonaws&logoColor=FFFFFF" alt="AWS logo" title="AWS" height="30" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=FFFFFF" alt="MySQL logo" title="MySQL" height="30" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Fastify-282C34?logo=fastify&logoColor=FFFFFF" alt="Fastify logo" title="Fastify" height="30" />][learning_next_anchor]
 
