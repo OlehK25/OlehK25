@@ -7,8 +7,8 @@
   
 <h1> 🚀 Hello !</h1>
 
-My name is Oleh. I'm a trainee/junior *Java Script* **[Node, Express, React/Redux]**.
-As an ambitious backend developer, I have basic JavaScript skills that I have improved through Udemy courses and hands-on application. I specialize in Node.js, Express.js, and MongoDB, with proven experience in CRUD operations, Stripe payments, REST API development, and server-side rendering with Pug. In addition, I have gained some experience with TypeScript, Docker, MySQL and Postgre SQL. <br>
+My name is Oleh. I'm a junior *Java Script* **[TS, Node, Express, React/Redux]**.
+I have basic JavaScript skills that I have improved through Udemy courses and hands-on application. I specialize in Node.js, Express.js, and MongoDB, with proven experience in CRUD operations, Stripe payments, REST API development, and server-side rendering with Pug. In addition, I have gained some experience with TypeScript, Docker, MySQL and Postgre SQL. <br>
 As I'm committed to continuous learning and career growth, I`m also looking to improve my English speaking skills.
 
 <br>
@@ -85,6 +85,8 @@ As I'm committed to continuous learning and career growth, I`m also looking to i
 [<img src="https://img.shields.io/badge/MySQL-1A120B?logo=mysql&logoColor=7091F5" alt="MySQL logo" title="MySQL" height="30" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/MaterialUI-1A120B?logo=mui&logoColor=4B32C3" alt="MaterialUI logo" title="Material UI" height="30" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/AWS-1A120B?logo=amazonaws&logoColor=FFFFFF" alt="AWS logo" title="AWS" height="30" />][learning_next_anchor]
 
 <hr>
 <br>
@@ -93,11 +95,7 @@ As I'm committed to continuous learning and career growth, I`m also looking to i
 
 [<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="30" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="30" />][learning_next_anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="30" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/AWS-282C34?logo=amazonaws&logoColor=FFFFFF" alt="AWS logo" title="AWS" height="30" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Fastify-282C34?logo=fastify&logoColor=FFFFFF" alt="Fastify logo" title="Fastify" height="30" />][learning_next_anchor]
 
