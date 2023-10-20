@@ -7,8 +7,8 @@
   
 <h1> 🚀 Hello !</h1>
 
-My name is Oleh. I'm a junior *Java Script* **[TS, Node, Express, React/Redux]**.
-I have basic JavaScript skills that I have improved through Udemy courses and hands-on application. I specialize in Node.js, Express.js, and MongoDB, with proven experience in CRUD operations, Stripe payments, REST API development, and server-side rendering with Pug. In addition, I have gained some experience with TypeScript, Docker, MySQL and Postgre SQL. <br>
+My name is Oleh. I'm a junior *Full Stack* **[TS, Node, Express, React/Redux]**.
+I have JavaScript/TypeScript skills that I have improved through Udemy courses and hands-on application. I specialize in Node.js, Express.js, and MongoDB, with proven experience in CRUD operations, Stripe payments, REST API development, and server-side rendering with Pug. In addition, I have gained some experience with NextJS, NestJS, Docker and PostgreSQL/MySQL (TypeORM). <br>
 As I'm committed to continuous learning and career growth, I`m also looking to improve my English speaking skills.
 
 <br>
@@ -22,6 +22,8 @@ As I'm committed to continuous learning and career growth, I`m also looking to i
 - [Node.js API Masterclass With Express & MongoDB](https://www.udemy.com/certificate/UC-80f32102-fcfd-4fe4-b77d-290a0c325108/)
 - [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/certificate/UC-8e038cfe-e2fd-4ad8-b4cd-0baf8c594dbd/)
 - [The Ultimate React Course 2023: React, Redux & More](https://www.udemy.com/certificate/UC-566d3700-29f5-4563-9261-b0112341fa57/)
+- [Next.js & React - The Complete Guide](https://www.udemy.com/certificate/UC-ada0eb8e-94a1-4b0f-a716-565abfdb6c66/)
+- [NestJS: The Complete Developer's Guide](https://www.udemy.com/certificate/UC-51e96b62-1edf-41ac-9daa-e27b883c6ffa/)
 
 <hr>
 
@@ -42,6 +44,8 @@ As I'm committed to continuous learning and career growth, I`m also looking to i
 [<img src="https://img.shields.io/badge/Redux-000?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="30" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Tailwind%20CSS-000?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="30" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/MaterialUI-1A120B?logo=mui&logoColor=4B32C3" alt="MaterialUI logo" title="Material UI" height="30" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Styled%20Components-000?logo=styledComponents&logoColor=EA1179" alt="Styled-components" title="Styled-components" height="30" />][tech_tools_anchor]
 
@@ -84,9 +88,9 @@ As I'm committed to continuous learning and career growth, I`m also looking to i
 &nbsp;
 [<img src="https://img.shields.io/badge/MySQL-1A120B?logo=mysql&logoColor=7091F5" alt="MySQL logo" title="MySQL" height="30" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/MaterialUI-1A120B?logo=mui&logoColor=4B32C3" alt="MaterialUI logo" title="Material UI" height="30" />][learning_next_anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/AWS-1A120B?logo=amazonaws&logoColor=FFFFFF" alt="AWS logo" title="AWS" height="30" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="30" />][learning_next_anchor]
 
 <hr>
 <br>
@@ -94,8 +98,6 @@ As I'm committed to continuous learning and career growth, I`m also looking to i
  <h2  align="center">👾  What I am interested in learning at some point </h2>
 
 [<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="30" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="30" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Fastify-282C34?logo=fastify&logoColor=FFFFFF" alt="Fastify logo" title="Fastify" height="30" />][learning_next_anchor]
 
