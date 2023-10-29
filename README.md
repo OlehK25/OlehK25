@@ -1,6 +1,7 @@
 [<img src="https://img.shields.io/github/followers/OlehK25?label=Follow&style=social" alt="GitHub logo" title="GitHub followers" height="25" />](https://github.com/OlehK25/?tab=follow)
 [<img src="https://img.shields.io/badge/-forprogit@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:forprogit@gmail.com" alt="Gmail logo" title="Gmail" height="25" />](mailto:forprogit@gmail.com)
-[<img src="https://img.shields.io/badge/LinkedIn-2A2F4F?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/oleh-kozakk/)
+[<img src="https://img.shields.io/badge/LinkedIn-2A2F4F?logo=linkedin&logoColor=e9e9ea" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/oleh-kozakk/)
+[<img src="https://img.shields.io/badge/Discord-5662f6?logo=discord&logoColor=FFF" alt="Discord logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/oleh-kozakk/)
 ---
 
 <div align="center", font-size='68px'>
