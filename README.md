@@ -8,9 +8,7 @@
   
 <h1> 🚀 Hello !</h1>
 
-My name is Oleh. I'm a junior *Full Stack* **[TS, Node, Express, React/Redux]**.
-I have JavaScript/TypeScript skills that I have improved through Udemy courses and hands-on application. I specialize in Node.js, Express.js, and MongoDB, with proven experience in CRUD operations, Stripe payments, REST API development, and server-side rendering with Pug. In addition, I have gained some experience with NextJS, NestJS, Docker and PostgreSQL/MySQL (TypeORM). <br>
-As I'm committed to continuous learning and career growth, I`m also looking to improve my English speaking skills.
+My name is Oleh. I'm a junior *Full-stack* **[TS, Node, Express, React/Redux]**.
 
 <br>
 </div>
