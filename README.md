@@ -3,14 +3,11 @@
 [<img src="https://img.shields.io/badge/LinkedIn-2A2F4F?logo=linkedin&logoColor=e9e9ea" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/oleh-kozakk/)
 [<img src="https://img.shields.io/badge/Discord-5662f6?logo=discord&logoColor=FFF" alt="Discord logo" title="Discord" height="25" />](https://discord.com/users/899672726124527637)
 ---
-
-<div align="center", font-size='68px'>
   
-<h1> 🚀 Hello !</h1>
-
-My name is Oleh. I'm a junior *Full-stack* **[TS, Node, Express, React/Redux]**.
-
-<br>
+<div id="header" align="center">  
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="150px">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+and+Welcome+👋;I'm+Oleh;I'm+Full-Stack+Developer">
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="150px">
 </div>
 
 <hr>
@@ -44,18 +41,24 @@ My name is Oleh. I'm a junior *Full-stack* **[TS, Node, Express, React/Redux]**.
 &nbsp;
 [<img src="https://img.shields.io/badge/Tailwind%20CSS-000?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="30" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/MaterialUI-1A120B?logo=mui&logoColor=4B32C3" alt="MaterialUI logo" title="Material UI" height="30" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/MaterialUI-1A120B?logo=mui&logoColor=4B32C3" alt="MaterialUI logo" title="Material UI" height="30" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Styled%20Components-000?logo=styledComponents&logoColor=EA1179" alt="Styled-components" title="Styled-components" height="30" />][tech_tools_anchor]
 
 ### Back-end:
+[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=91C8E4" alt="TypeScript logo" title="TypeScript" height="30" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="30" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="30" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=2361DAFB" alt="Express.js logo" title="Express.js" height="30" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="30" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Mongoose-282C34?logo=mongoose&logoColor=339933" alt="Mongoose logo" title="Mongoose" height="30" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/JWT-282C34?logo=JSON%20web%20tokens&logoColor=FFFFF" alt="JWT logo" title="JWT" height="30" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Pug-282C34?logo=pug&logoColor=FFFFF" alt="Pug logo" title="Pug" height="30" />][tech_tools_anchor]
 
 ### Tools:
 [<img src="https://img.shields.io/badge/ESLint-0A2647?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="30" />][tech_tools_anchor]
@@ -64,11 +67,11 @@ My name is Oleh. I'm a junior *Full-stack* **[TS, Node, Express, React/Redux]**.
 &nbsp;
 [<img src="https://img.shields.io/badge/Postman-0A2647?logo=postman&logoColor=339933" alt="Postman logo" title="Postman" height="30" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Heroku-0A2647?logo=heroku&logoColor=339933" alt="Heroku logo" title="Heroku" height="30" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Heroku-0A2647?logo=heroku&logoColor=D0A2F7" alt="Heroku logo" title="Heroku" height="30" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/pgAdmin-0A2647?logo=pgAdmin&logoColor=339933" alt="pgAdmin logo" title="pgAdmin" height="30" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Supabase-0A2647?logo=supabase&logoColor=339933" alt="Supabase logo" title="Supabase" height="30" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Supabase-0A2647?logo=supabase&logoColor=A86454" alt="Supabase logo" title="Supabase" height="30" />][tech_tools_anchor]
 
 <a name="learning-next"></a>
 
@@ -77,28 +80,32 @@ My name is Oleh. I'm a junior *Full-stack* **[TS, Node, Express, React/Redux]**.
 
 <h2  align="center">🧠  Currently learning / improving on  </h2>
 
-[<img src="https://img.shields.io/badge/Docker-1A120B?logo=docker&logoColor=4B32C3" alt="Docker logo" title="Docker" height="30" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/Docker-1A120B?logo=docker&logoColor=4B32C3" alt="Docker logo" title="Docker" height="30" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Postgres-1A120B?logo=postgreSQL&logoColor=6F61C0" alt="Postgres logo" title="Postgre SQL" height="30" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/Postgres-1A120B?logo=postgreSQL&logoColor=6F61C0" alt="Postgres logo" title="Postgre SQL" height="30" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/TypeScript-1A120B?logo=typescript&logoColor=91C8E4" alt="TypeScript logo" title="TypeScript" height="30" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/MySQL-1A120B?logo=mysql&logoColor=7091F5" alt="MySQL logo" title="MySQL" height="30" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Nest.js-1A120B?logo=nestjs&logoColor=F05032" alt="Nest.js logo" title="Nest.js" height="30" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/MariaDB-1A120B?logo=mariadb&logoColor=FFFFFF" alt="MariaDB logo" title="MariaDB" height="30" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/MySQL-1A120B?logo=mysql&logoColor=7091F5" alt="MySQL logo" title="MySQL" height="30" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/Nest.js-1A120B?logo=nestjs&logoColor=F05032" alt="Nest.js logo" title="Nest.js" height="30" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/AWS-1A120B?logo=amazonaws&logoColor=FFFFFF" alt="AWS logo" title="AWS" height="30" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/AWS-1A120B?logo=amazonaws&logoColor=FFFFFF" alt="AWS logo" title="AWS" height="30" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="30" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/Next.js-1A120B?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="30" />][learning_now_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Firebase-1A120B?logo=firebase&logoColor=23039BE5" alt="Firebase logo" title="Firebase" height="30" />][learning_now_anchor]
 
 <hr>
 <br>
 
- <h2  align="center">👾  What I am interested in learning at some point </h2>
+ <h2  align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />  What I am interested in learning at some point </h2>
 
 [<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="30" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Fastify-282C34?logo=fastify&logoColor=FFFFFF" alt="Fastify logo" title="Fastify" height="30" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Redis-282C34?logo=redis&logoColor=D80032" alt="Redis logo" title="Redis" height="30" />][learning_next_anchor]
 
 
 [tech_tools_anchor]: #Hello--
@@ -108,6 +115,10 @@ My name is Oleh. I'm a junior *Full-stack* **[TS, Node, Express, React/Redux]**.
 <hr>
 <br>
 
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+### 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=OlehK25&theme=react&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=OlehK25&theme=react&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OlehK25&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-[Repositories](https://github.com/OlehK25?tab=repositories)
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting
+
