@@ -23,55 +23,30 @@
 
 <hr>
 
-<h2  align="center">🛠 Stack of Technologies and tools   </h2>
+<h2  align="center">🛠 Stack of Technologies and tools</h2>
 
 ### Front-end:
-
-<a name="learning-now"></a>
-
-[<img src="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="30" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/HTML5-000?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="30" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/CSS3-000?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="30" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/React-000?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="30" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Redux-000?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="30" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Tailwind%20CSS-000?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="30" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/MaterialUI-1A120B?logo=mui&logoColor=4B32C3" alt="MaterialUI logo" title="Material UI" height="30" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Styled%20Components-000?logo=styledComponents&logoColor=EA1179" alt="Styled-components" title="Styled-components" height="30" />][tech_tools_anchor]
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,tailwind,materialui,styledcomponents,nextjs" />
+</p>
 
 ### Back-end:
-[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=91C8E4" alt="TypeScript logo" title="TypeScript" height="30" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="30" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=2361DAFB" alt="Express.js logo" title="Express.js" height="30" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="30" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Mongoose-282C34?logo=mongoose&logoColor=339933" alt="Mongoose logo" title="Mongoose" height="30" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/JWT-282C34?logo=JSON%20web%20tokens&logoColor=FFFFF" alt="JWT logo" title="JWT" height="30" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Pug-282C34?logo=pug&logoColor=FFFFF" alt="Pug logo" title="Pug" height="30" />][tech_tools_anchor]
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,expressjs,nodejs,pug,nestjs" />
+</p>
 
-### Tools:
-[<img src="https://img.shields.io/badge/ESLint-0A2647?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="30" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/git-0A2647?logo=git&logoColor=F05032" alt="git logo" title="git" height="30" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Postman-0A2647?logo=postman&logoColor=339933" alt="Postman logo" title="Postman" height="30" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Heroku-0A2647?logo=heroku&logoColor=D0A2F7" alt="Heroku logo" title="Heroku" height="30" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/pgAdmin-0A2647?logo=pgAdmin&logoColor=339933" alt="pgAdmin logo" title="pgAdmin" height="30" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Supabase-0A2647?logo=supabase&logoColor=A86454" alt="Supabase logo" title="Supabase" height="30" />][tech_tools_anchor]
+### Databases:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+  <img width="48px" height="48px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" />
+</p>
+
+### Tools & Services:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,postman,supabase,docker,firebase,vercel" />
+  <img width="48px" height="48px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/54946572/281752331-0ed1571c-e3df-4f34-94df-102c0afbdb2b.png" />
+  <img width="48px" height="48px" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" />
+</p>
 
 <a name="learning-next"></a>
 
@@ -79,34 +54,18 @@
 <br>
 
 <h2  align="center">🧠  Currently learning / improving on  </h2>
-
-[<img src="https://img.shields.io/badge/Docker-1A120B?logo=docker&logoColor=4B32C3" alt="Docker logo" title="Docker" height="30" />][learning_now_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Postgres-1A120B?logo=postgreSQL&logoColor=6F61C0" alt="Postgres logo" title="Postgre SQL" height="30" />][learning_now_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/MySQL-1A120B?logo=mysql&logoColor=7091F5" alt="MySQL logo" title="MySQL" height="30" />][learning_now_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/MariaDB-1A120B?logo=mariadb&logoColor=FFFFFF" alt="MariaDB logo" title="MariaDB" height="30" />][learning_now_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Nest.js-1A120B?logo=nestjs&logoColor=F05032" alt="Nest.js logo" title="Nest.js" height="30" />][learning_now_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/AWS-1A120B?logo=amazonaws&logoColor=FFFFFF" alt="AWS logo" title="AWS" height="30" />][learning_now_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Next.js-1A120B?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="30" />][learning_now_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Firebase-1A120B?logo=firebase&logoColor=23039BE5" alt="Firebase logo" title="Firebase" height="30" />][learning_now_anchor]
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img width="48px" height="48px" src="https://user-images.githubusercontent.com/46967826/235814699-7bf7e5ce-19d1-469b-9efe-fe89412349d8.png" />
+</p>
 
 <hr>
 <br>
 
- <h2  align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />  What I am interested in learning at some point </h2>
-
-[<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="30" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Fastify-282C34?logo=fastify&logoColor=FFFFFF" alt="Fastify logo" title="Fastify" height="30" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Redis-282C34?logo=redis&logoColor=D80032" alt="Redis logo" title="Redis" height="30" />][learning_next_anchor]
-
+ <h2  align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />  What I am interested in learning at some point</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=redis,graphql" />
+</p>
 
 [tech_tools_anchor]: #Hello--
 [learning_now_anchor]: #learning-now
