@@ -75,8 +75,9 @@
 <br>
 
 ### 📊GitHub Stats :
-![](https://github-readme-streak-stats.herokuapp.com/?user=OlehK25&theme=react&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OlehK25&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![](https://github-readme-streak-stats.herokuapp.com?user=OlehK25&theme=nord&mode=weekly)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OlehK25&theme=nord&include_all_commits=true&count_private=true&layout=compact)
+[![](https://github-readme-stats.vercel.app/api?username=OlehK25&theme=nord&show_icons=true&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting
 
