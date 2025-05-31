@@ -317,6 +317,7 @@ drwxr-xr-x blockchain/    [Ethereum, Smart Contracts, Web3.js, Ethers.js]
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OlehK25&bg_color=2E3440&color=88C0D0&line=EBCB8B&point=E5E9F0&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 <hr>
+
 ## <div align="center">📊 GitHub Stats</div>
 
 <p align="center">
