@@ -31,7 +31,7 @@
 
 🧑‍💻 NAME: Oleh Kozak | 📍 LOCATION: Kyiv, Ukraine
 🎓 EDUCATION: BSc Computer Engineering @ National Aviation University
-💼 OCCUPATION: Junior Full-Stack Developer @ Sandstorm Software FZE
+💼 OCCUPATION: Full-Stack Developer @ Deep Focus Lab
 
 ┌──(oleh@dev)-[~/about_me]
 └─$ ls -la skills/
