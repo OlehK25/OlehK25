@@ -31,7 +31,7 @@
 
 🧑‍💻 NAME: Oleh Kozak | 📍 LOCATION: Kyiv, Ukraine
 🎓 EDUCATION: BSc Computer Engineering @ National Aviation University
-💼 OCCUPATION: Full-Stack Developer @ Deep Focus Lab
+💼 OCCUPATION: Full-Stack Developer @ Deep Focus Lab Tech
 
 ┌──(oleh@dev)-[~/about_me]
 └─$ ls -la skills/
