@@ -22,7 +22,7 @@
 ## <div align="center">$ whoami 🧙‍♂️</div>
 
 <p align="center">
-  <code>2021</code> 📚 Started CS Degree → <code>2022</code> 💻 First Dev Role → <code>2023</code> 🚀 Full Stack Developer → <code>2024</code> ⛓️ Blockchain Explorer
+  <code>2021</code> 📚 Started CS Degree → <code>2022</code> 💻 First Dev Role → <code>2023</code> 🚀 Full-Stack Developer → <code>2024</code> ⛓️ Blockchain Explorer
 </p>
 
 ```bash
