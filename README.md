@@ -34,18 +34,6 @@
 💼 OCCUPATION: Full-Stack Developer @ Deep Focus Lab Tech
 
 ┌──(oleh@dev)-[~/about_me]
-└─$ ls -la skills/
-
-drwxr-xr-x frontend/      [React, Next.js, Redux, Tailwind, MUI, Styled Components]
-drwxr-xr-x backend/       [Node.js, Express.js, Nest.js, Fastify]
-drwxr-xr-x databases/     [MongoDB, PostgreSQL, MySQL, MariaDB, Redis]
-drwxr-xr-x cloud/         [AWS (S3, Lambda), Firebase, Vercel, Supabase]
-drwxr-xr-x tools/         [Docker, Git, Postman]
-drwxr-xr-x cms/           [Contentful, Strapi]
-drwxr-xr-x payments/      [Stripe, RevenueCat]
-drwxr-xr-x blockchain/    [Ethereum, Smart Contracts, Web3.js, Ethers.js]
-
-┌──(oleh@dev)-[~/about_me]
 └─$ cat focus.txt
 
 > Currently building scalable web applications and exploring blockchain development
