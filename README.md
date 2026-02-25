@@ -306,13 +306,6 @@
 </p>
 <hr>
 
-## <div align="center">📊 GitHub Stats</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlehK25&theme=nord&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=OlehK25&theme=nord&show_icons=true&rank_icon=percentile&count_private=true" alt="GitHub Stats" />
-</p>
-
 ## <div align="center">🔍 What I'm Interested In</div>
 
 <div align="center">
