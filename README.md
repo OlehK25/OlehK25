@@ -1,4 +1,4 @@
-# <div align="center">👋 Hello World, I'm Oleh</div>
+# <div align="center">Hey, I'm Oleh 👋</div>
 
 <div align="center">
   <a href="https://github.com/OlehK25/?tab=follow">
@@ -8,40 +8,43 @@
     <img src="https://img.shields.io/badge/-forprogit@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" height="25" />
   </a>
   <a href="https://www.linkedin.com/in/oleh-kozakk/">
-    <img src="https://img.shields.io/badge/LinkedIn-2A2F4F?logo=linkedin&logoColor=e9e9ea" alt="LinkedIn" height="25" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="25" />
   </a>
   <a href="https://discord.com/users/899672726124527637">
-    <img src="https://img.shields.io/badge/Discord-5662f6?logo=discord&logoColor=FFF" alt="Discord" height="25" />
+    <img src="https://img.shields.io/badge/Discord-5662f6?style=flat-square&logo=discord&logoColor=white" alt="Discord" height="25" />
   </a>
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Developer;JavaScript+%7C+TypeScript+Enthusiast;React+%7C+Next.js+%7C+Node.js+Expert;Blockchain+Explorer" alt="Typing SVG" />
-</p>
-
-## <div align="center">$ whoami 🧙‍♂️</div>
+<br/>
 
 <p align="center">
-  <code>2021</code> 📚 Started CS Degree → <code>2022</code> 💻 First Dev Experience → <code>2023</code> 🚀 Full-Stack Developer → <code>2024</code> ⛓️ Blockchain Explorer
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&random=false&width=600&lines=Middle+Full-Stack+Engineer;LLM+Engineer+%7C+AI+%26+Agentic+Systems;React+%7C+Next.js+%7C+Node.js+%7C+Python;RAG+Pipelines+%7C+LangChain+%7C+AI+Agents" alt="Typing SVG" />
 </p>
+
+---
+
+## <div align="center">$ whoami 🧑‍💻</div>
 
 ```bash
 ┌──(oleh@dev)-[~/about_me]
 └─$ cat profile.txt
 
-🧑‍💻 NAME: Oleh Kozak | 📍 LOCATION: Kyiv, Ukraine
-🎓 EDUCATION: BSc Computer Engineering @ National Aviation University
-💼 OCCUPATION: Full-Stack Developer
+🧑‍💻 NAME:       Oleh Kozak
+📍 LOCATION:   Kyiv, Ukraine (Remote-first)
+🎓 EDUCATION:  BSc Computer Engineering @ National Aviation University
+💼 LEVEL:      Middle+ Full-Stack Engineer → LLM Engineer
 
 ┌──(oleh@dev)-[~/about_me]
 └─$ cat focus.txt
 
-> Currently building scalable web applications and exploring blockchain development
-> "Clean code is not just a preference, but a responsibility."
+> End-to-end product engineer: from system design to production deploy.
+> Currently deep-diving into LLM Engineering: RAG, AI Agents, Fine-Tuning.
+> I don't just write features — I architect systems and own outcomes.
 ```
 
+---
 
-## <div align="center">🚀 My Tech Stack</div>
+## <div align="center">🚀 Core Tech Stack</div>
 
 <table align="center">
   <tr>
@@ -159,168 +162,60 @@
     </td>
   </tr>
 </table>
+---
 
-<hr>
+## <div align="center">🧠 Currently Mastering: LLM Engineering</div>
 
-<details>
-  <summary align="center"><h2>🧩 More Skills & Technologies</h2></summary>
-  <table align="center">
-    <tr>
-      <td>
-        <h3 align="center">🌐 Frontend Frameworks & Libraries</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI"/>
-          <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components"/>
-          <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3 align="center">☁️ Cloud Services & Deployment</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-          <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-          <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" alt="AWS Lambda"/>
-          <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="AWS S3"/>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3 align="center">🔌 APIs & Tools</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-          <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-          <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3 align="center">🧠 Currently Exploring</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white" alt="Blockchain"/>
-          <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
-          <img src="https://img.shields.io/badge/Smart_Contracts-F7931A?style=for-the-badge&logo=ethereum&logoColor=white" alt="Smart Contracts"/>
-          <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js"/>
-          <img src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethers.js"/>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3 align="center">🛠 CMS & E-commerce</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white" alt="Contentful"/>
-          <img src="https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi"/>
-          <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
-          <img src="https://img.shields.io/badge/RevenueCat-446DFF?style=for-the-badge&logo=revenuecat&logoColor=white" alt="RevenueCat"/>
-        </div>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary align="center"><h2>🏆 Professional Achievements</h2></summary>
-  <table align="center">
-    <tr>
-      <td>
-        <h3 align="center">📊 Analytics Platform</h3>
-        <p>
-          <strong>Challenge:</strong> Developed a comprehensive analytics service for tracking multiple AppStore applications.
-        </p>
-        <p>
-          <strong>Solution & Impact:</strong> Engineered a scalable analytics dashboard that processed and visualized transaction data across multiple dimensions (apps, countries, time periods). Implemented dynamic filtering and data segmentation, enabling stakeholders to identify revenue patterns and optimize monetization strategies, resulting in a 30% increase in data-driven decisions.
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-          <img src="https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge&logo=react&logoColor=white" alt="Recharts" />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3 align="center">🚀 SaaS Web Platform</h3>
-        <p>
-          <strong>Challenge:</strong> Create a fully dynamic website that evolved into a SaaS solution with cross-platform payment processing.
-        </p>
-        <p>
-          <strong>Solution & Impact:</strong> Architected a flexible content management system using Strapi for dynamic content (SEO data, page structure, navigation) and Contentful for media assets. Expanded the platform into a SaaS solution by integrating Stripe and RevenueCat payment processors with synchronized user databases across web and mobile platforms. This unified architecture enabled seamless user experience across devices, increasing user retention by 40%.
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-          <img src="https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi" />
-          <img src="https://img.shields.io/badge/Contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white" alt="Contentful" />
-          <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
-          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-          <img src="https://img.shields.io/badge/RevenueCat-f15960?style=for-the-badge&logo=revenuecat&logoColor=black" alt="RevenueCat" />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3 align="center">🧠 Focus Browser Extension</h3>
-        <p>
-          <strong>Challenge:</strong> Design a browser extension to help users combat digital distractions.
-        </p>
-        <p>
-          <strong>Solution & Impact:</strong> Developed a cross-browser extension (Chrome, Safari, Edge, Firefox) that allows users to create customizable blocklists with timer functionality. Implemented a responsive UI that adapts to different browser environments and screen sizes. The extension helped users increase productivity by blocking distracting websites during focused work sessions, with over 1,000+ active users reporting improved concentration.
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-          <img src="https://img.shields.io/badge/Web_Extensions-A8A99E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web Extensions" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3 align="center">⚽ Sports Information Platform</h3>
-        <p>
-          <strong>Challenge:</strong> Build a comprehensive sports service covering multiple sports with personalized user experiences.
-        </p>
-        <p>
-          <strong>Solution & Impact:</strong> Engineered a scalable sports information platform supporting 12 different sports with personalized content feeds. Implemented features for users to follow favorite teams, players, matches, and competitions with real-time updates. Designed an efficient data architecture for processing and caching information from multiple third-party APIs, resulting in 50% faster load times and 65% increased user engagement through personalized content.
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-          <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-          <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
-        </p>
-      </td>
-    </tr>
-  </table>
-</details>
-
-<hr>
-
-## <div align="center">⚡ Coding Activity</div>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OlehK25&bg_color=2E3440&color=88C0D0&line=EBCB8B&point=E5E9F0&area=true&hide_border=true" alt="Activity Graph" />
+  <em>Actively building production-grade AI systems — not just calling APIs.</em>
 </p>
-<hr>
-
-## <div align="center">🔍 What I'm Interested In</div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Smart%20Contracts-FFD700?style=for-the-badge" alt="Smart Contracts" />
-  <img src="https://img.shields.io/badge/DeFi-21325B?style=for-the-badge" alt="DeFi" />
-  <img src="https://img.shields.io/badge/Web3-00FFFF?style=for-the-badge" alt="Web3" />
-  <img src="https://img.shields.io/badge/Dapps-3C3C3D?style=for-the-badge" alt="Dapps" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+
+| Skill                          | Status                                                |
+| ------------------------------ | ----------------------------------------------------- |
+| 🔗 LangChain & LangGraph       | `Active` — Agentic orchestration in practice          |
+| 📚 RAG Pipelines               | `Active` — Vector Stores, embeddings, semantic search |
+| 🤖 Multi-Agent Systems         | `Active` — Autonomous agent collaboration workflows   |
+| 🧬 Fine-Tuning (QLoRA)         | `Active` — Open-source model training on HuggingFace  |
+| 🌐 Frontier & Open-Source LLMs | `Active` — GPT-4o, Claude, Gemini, Llama, Mistral     |
+| 🛠️ LLM Deployment              | `Active` — Productionized agents with polished UIs    |
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+---
+
+## <div align="center">⚡ Coding Activity</div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OlehK25&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+## <div align="center">🔍 What I'm Focused On</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/LLM_Engineering-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full--Stack_Architecture-3498DB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/High--Load_Systems-2ECC71?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Product_Ownership-E67E22?style=for-the-badge" />
 </div>
 
 ---
 
 <div align="center">
-  <h3>💬 Let's Connect!</h3>
-  <p>"Code is like humor. When you have to explain it, it's bad." – Cory House</p>
-  <img src="https://komarev.com/ghpvc/?username=olehk25&style=flat-square&color=blue" alt="Profile Views"/>
+  <h3>💬 Let's Build Something Real</h3>
+  <p><em>"A good system design is worth a thousand quick fixes."</em></p>
+  <img src="https://komarev.com/ghpvc/?username=olehk25&style=flat-square&color=3498DB" alt="Profile Views"/>
 </div>
